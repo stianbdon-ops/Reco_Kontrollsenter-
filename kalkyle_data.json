@@ -1,0 +1,16 @@
+[
+  {
+    "rom": "Stue",
+    "arbeidspost": "Ny parkett",
+    "materiell": "Parkett 14mm",
+    "pris": 250,
+    "status": "Planlagt"
+  },
+  {
+    "rom": "Bad",
+    "arbeidspost": "Ny baderomsplate",
+    "materiell": "Baderomsplate 12mm",
+    "pris": 199,
+    "status": "Utf\u00f8rt"
+  }
+]
